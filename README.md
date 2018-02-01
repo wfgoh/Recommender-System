@@ -1,4 +1,6 @@
-# Recommender System using Colloborative Filtering
-Build a movie recommendation system using collaborative filtering based on users ratings.
+# Colloborative Filtering Recommender System
+Build a movie recommendation system using collaborative filtering based on users ratings.<br>
 
-see recommender.ipynb
+See recommender.ipynb<br>
+
+Data source: https://grouplens.org/datasets/movielens/
